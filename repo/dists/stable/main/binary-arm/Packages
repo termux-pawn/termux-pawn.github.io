@@ -1,0 +1,28 @@
+Package: pawncc
+Version: 3.10.10
+Section: devel
+Priority: optional
+Architecture: arm
+Maintainer: Termux-Pawn <termux-pawn@proton.me>
+Description: The pawncc is the compiler for the PAWN scripting language converting source code into executable bytecode for the AMX virtual machine. It is ideal for game mod development and lightweight systems, works in San Andreas Multiplayer and Open Multiplayer.
+Filename: dists/stable/main/binary-arm/pawncc-3.10.10_arm.deb
+Size: 446352
+MD5Sum: 98b0973d25000d20809ab1edc1744910
+SHA1: 94893777c2b2227b5c657841be22d8281bb2c1f5
+SHA256: 2f510d81922a5363a9e0d7f633bfe71ff368eb0f74456cbad1f19d524fb2cf8a
+SHA512: 53281222153056cfb8f1d50b62d076cc6bc46e77aeb441b7a61555703a4a580b105baa5c8c202517a791b9179ddc602ed30a3ec1012893d7937a8a06c5b1c428
+
+Package: pawncc-11
+Version: 3.10.11
+Section: devel
+Priority: optional
+Architecture: arm
+Maintainer: Termux-Pawn <termux-pawn@proton.me>
+Description: The pawncc-11 is the compiler for the PAWN scripting language converting source code into executable bytecode for the AMX virtual machine. It is ideal for game mod development and lightweight systems, only works in Open Multiplayer.
+Filename: dists/stable/main/binary-arm/pawncc-3.10.11_arm.deb
+Size: 486160
+MD5Sum: 7a239acd8f958cd05ab8faa27bc50532
+SHA1: 59ac44b5926bf5c48c74f52efda4aa8fb4a5a325
+SHA256: 29fa521fd8f011017db0f4c29f4a74f62fc1f8cc7dfb1c8fadf962bddb73c740
+SHA512: e4ff2681ee1d58c88ba81fd8d53f087523afc50003077b7fbb23a21c2cdb6947d6a2635669f527cb31f5bea7a32146b525fac5bdbfd03d1335be48402028574f
+

@@ -4,17 +4,3 @@ data/data/com.termux/files/usr/etc/deamx/deamx_events.lua                       
 data/data/com.termux/files/usr/etc/deamx/deamx_opcodes.lua                       deamx
 data/data/com.termux/files/usr/etc/deamx/deamx_syscalls.lua                      deamx
 data/data/com.termux/files/usr/etc/deamx/deamx_util.lua                          deamx
-data/data/com.termux/files/usr/bin/pawn/armeabi_pawncc                           pawncc
-data/data/com.termux/files/usr/bin/pawn/armeabi_pawndisasm                       pawncc
-data/data/com.termux/files/usr/bin/pawn/armeabi_pawnruns                         pawncc
-data/data/com.termux/files/usr/bin/pawncc                                        pawncc
-data/data/com.termux/files/usr/bin/pawndisasm                                    pawncc
-data/data/com.termux/files/usr/bin/pawnruns                                      pawncc
-data/data/com.termux/files/usr/lib/libpawnc.a                                    pawncc
-data/data/com.termux/files/usr/bin/pawn/armeabi_pawncc-11                        pawncc-11
-data/data/com.termux/files/usr/bin/pawn/armeabi_pawndisasm-11                    pawncc-11
-data/data/com.termux/files/usr/bin/pawn/armeabi_pawnruns-11                      pawncc-11
-data/data/com.termux/files/usr/bin/pawncc-11                                     pawncc-11
-data/data/com.termux/files/usr/bin/pawndisasm-11                                 pawncc-11
-data/data/com.termux/files/usr/bin/pawnruns-11                                   pawncc-11
-data/data/com.termux/files/usr/lib/libpawnc_11.a                                 pawncc-11
