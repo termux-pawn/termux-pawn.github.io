@@ -20,7 +20,7 @@
 Abra o Termux e adicione o repositório com o comando abaixo:
 
 ```bash
-echo "deb [trusted=yes arch=all] https://termux-pawn.github.io/repo stable main" >> $PREFIX/etc/apt/sources.lists
+echo "deb [trusted=yes arch=all] https://termux-pawn.github.io/repo stable main" >> $PREFIX/etc/apt/sources.list
 ```
 ### 2️⃣ Atualize a Lista de Pacotes
 
