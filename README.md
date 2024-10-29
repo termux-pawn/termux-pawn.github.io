@@ -1,6 +1,6 @@
 # ⚙️ Termux Pawn
 
-**Termux Pawn** é um repositório APT otimizado para o desenvolvimento de scripts em PAWN, com foco no [SA-MP](https://www.sa-mp.com/), [Open.MP](https://www.open.mp/), e plataformas relacionadas. Simplifique o setup do ambiente no Termux e instale pacotes `.deb` necessários para desenvolver, compilar e testar seus scripts de forma ágil e eficiente. 
+**Termux Pawn** é um repositório APT otimizado para o desenvolvimento de scripts em PAWN, com foco no [SA-MP](https://www.sa-mp.mp/), [Open.MP](https://www.open.mp/), e plataformas relacionadas. Simplifique o setup do ambiente no Termux e instale pacotes `.deb` necessários para desenvolver, compilar e testar seus scripts de forma ágil e eficiente. 
 
 ## ✨ Funcionalidades
 
