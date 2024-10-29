@@ -46,6 +46,8 @@ apt install -y pawncc
 
 - **pawncc-11:** Compilador PAWN v3.10.11 para open.mp
 
+- **deamx:** Um decompilador de AMX escrito em lua para SA-MP.
+
 ## 📂 Pacotes Planejados
 
 - **pawn-help:** Um manual com tutoriais e explicações sobre o compilador PAWN
