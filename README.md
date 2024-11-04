@@ -2,6 +2,8 @@
 
 **Termux Pawn** é um repositório APT otimizado para o desenvolvimento de scripts em PAWN, com foco no [SA-MP](https://www.sa-mp.mp/), [Open.MP](https://www.open.mp/), e plataformas relacionadas. Simplifique o setup do ambiente no Termux e instale pacotes `.deb` necessários para desenvolver, compilar e testar seus scripts de forma ágil e eficiente. 
 
+**[Baixe o Termux aqui](https://f-droid.org/repo/com.termux_1020.apk)**
+
 ## ✨ Funcionalidades
 
 - 📦 **Compilador PAWN**: Instale e mantenha atualizado o compilador PAWN diretamente no Termux.
